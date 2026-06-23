@@ -129,25 +129,25 @@ Upcoming:
 
 Roadmap
 
-Phase 1
+Phase-1
 
 - User Authentication
 - Portfolio Tracking
 - Watchlists
 
-Phase 2
+Phase-2
 
 - Technical Indicators
 - Analytics Dashboard
 - Reporting Engine
 
-Phase 3
+Phase-3
 
 - AI Signal Generation
 - Risk Analysis
 - Machine Learning Integration
 
-Phase 4
+Phase-4
 
 - Real-Time Data Processing
 - Advanced Portfolio Analytics
