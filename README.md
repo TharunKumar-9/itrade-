@@ -162,3 +162,32 @@ Baddala Tharun Kumar
 B.Tech – Artificial Intelligence & Machine Learning
 
 AWS Cloud Certified | Red Hat Linux Certified
+
+# iTrade Roadmap
+
+## Phase 1 - MVP
+- User Authentication
+- Watchlist Management
+- Portfolio Tracking
+- Stock Search
+- RSI Indicator
+- EMA Indicator
+
+## Phase 2 - Analytics
+- MACD
+- Bollinger Bands
+- Trend Detection
+- Dashboard Analytics
+
+## Phase 3 - AI Engine
+- Buy Signals
+- Sell Signals
+- Hold Signals
+- Confidence Score
+- Risk Rating
+
+## Phase 4 - Scale
+- Real-Time Data
+- Redis Caching
+- Docker Deployment
+- Cloud Hosting
